@@ -45,8 +45,8 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/ChirsVeon/2048-C.git
-cd 2048-C
+git clone https://github.com/ChirsVeon/embedded-2048-game.git
+cd embedded-2048-game
 
 # 编译项目
 make
@@ -74,7 +74,7 @@ make clean
 ## 📂 项目结构
 
 ```
-2048-C/
+embedded-2048-game/
 ├── src/                  # 源代码目录
 │   ├── main.c           # 主程序，游戏逻辑实现
 │   ├── lcd.c            # LCD屏幕驱动和显示功能
