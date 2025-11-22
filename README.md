@@ -1,4 +1,4 @@
-# 2048-C
+# embedded-2048-game
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
